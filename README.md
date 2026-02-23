@@ -12,7 +12,7 @@ Hi, I'm Maletho 👋🏽
 - HTML5
 - CSS3
 - JavaScript
-- React (learning)
+- React, Next.js and TypeScript (learning)
 - Git & GitHub
 
 ## Currently Working On
